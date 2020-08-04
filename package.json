@@ -1,0 +1,17 @@
+{
+  "name": "mm-chain",
+  "version": "0.0.2",
+  "description": "blockchain module",
+  "main": "Blockchain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "SineMathur",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
