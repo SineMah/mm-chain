@@ -45,7 +45,7 @@ module.exports = class Block {
             data: this.data,
             previousHash: this.previousHash,
             hash: this.hash,
-            nonce: this.referrer
+            referrer: this.referrer
         };
     }
 }

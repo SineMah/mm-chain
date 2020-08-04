@@ -37,47 +37,47 @@ console.log(chain.isValid());
 [
     {
         "index": 0,
-        "timestamp": "16:07:37 04/Aug/2020",
+        "timestamp": "16:16:29 04/Aug/2020",
         "data": null,
         "previousHash": "0",
-        "hash": "fb707223f1f551959308e4e18919aee861e0893dd13b791da6053cd1a73c4f22",
-        "nonce": 0
+        "hash": "65045ee6815de81e87a3aac267fc3040f2c6ad3590f327c9480f96bf9558c13c",
+        "referrer": 0
     },
     {
         "index": 1,
-        "timestamp": "16:07:37 04/Aug/2020",
+        "timestamp": "16:16:29 04/Aug/2020",
         "data": {
             "sender": "Joker",
             "recipient": "Batman",
             "custom": 37
         },
-        "previousHash": "fb707223f1f551959308e4e18919aee861e0893dd13b791da6053cd1a73c4f22",
-        "hash": "f0cbe6e83e89f4a1944131259c431b84a886654085efc857d1871bb71c126905",
-        "nonce": 9835
+        "previousHash": "65045ee6815de81e87a3aac267fc3040f2c6ad3590f327c9480f96bf9558c13c",
+        "hash": "52be8b575a80c68e8931eed933a9d7bb35776240b7b5893f49133d453f32ee99",
+        "referrer": 44396
     },
     {
         "index": 2,
-        "timestamp": "16:07:37 04/Aug/2020",
+        "timestamp": "16:16:30 04/Aug/2020",
         "data": {
             "sender": "Monitor",
             "recipient": "Flash",
             "custom": 679
         },
-        "previousHash": "f0cbe6e83e89f4a1944131259c431b84a886654085efc857d1871bb71c126905",
-        "hash": "0672a417e8109091714a2001c68753a4455f2c08f44743d0e4e3f7be6ca098d4",
-        "nonce": 50179
+        "previousHash": "52be8b575a80c68e8931eed933a9d7bb35776240b7b5893f49133d453f32ee99",
+        "hash": "c097445682b8719020d99c9a3fca401d0edc4d0745a25f6e0c191b63c43e3fd0",
+        "referrer": 18661
     },
     {
         "index": 3,
-        "timestamp": "16:07:38 04/Aug/2020",
+        "timestamp": "16:16:31 04/Aug/2020",
         "data": {
             "sender": "Arrow",
             "recipient": "Diaz",
             "custom": 907
         },
-        "previousHash": "0672a417e8109091714a2001c68753a4455f2c08f44743d0e4e3f7be6ca098d4",
-        "hash": "ed7a42e2f94e7b11d7fccdc7c70ce74a0b0834f3de93e605e66886638831da5f",
-        "nonce": 87545
+        "previousHash": "c097445682b8719020d99c9a3fca401d0edc4d0745a25f6e0c191b63c43e3fd0",
+        "hash": "86bde52a16b7cd314762f643c399cfa0c12e6558d881f1ce72e92dd7d793cab9",
+        "referrer": 13556
     }
 ]
 true
